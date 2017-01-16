@@ -19,6 +19,7 @@
 			"sass": {
 				"includePaths": [
 					"./tmp/styles/",
+					"./node_modules/normalize.css/",
 					"./node_modules/susy/sass/",
 					"./__src/styles/"
 				]
